@@ -1,4 +1,4 @@
-package board
+package gotictactoe
 
 type Board struct {
 	size   int
