@@ -1,4 +1,4 @@
-package gotictactoe
+package game
 
 import (
 	"testing"

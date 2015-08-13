@@ -1,4 +1,4 @@
-package gotictactoe
+package board
 
 import (
 	"testing"
